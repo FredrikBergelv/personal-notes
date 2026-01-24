@@ -1,3 +1,6 @@
 # LibreOffice / OpenDocument files
 *.odt
 .~lock.*#
+
+#Git
+.gitignore
