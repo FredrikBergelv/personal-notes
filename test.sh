@@ -59,3 +59,5 @@ while true; do
     echo "Updated copy and pushed at $(date)"
 done
 
+hej
+
