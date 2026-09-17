@@ -14,6 +14,8 @@
 \usepackage{setspace}
 \usepackage{parskip}
 \usepackage{hyperref}
+\usepackage{zref-totpages}
+
 
 \geometry{
     margin=2.5cm
@@ -39,10 +41,10 @@
 
     {\Large \textsc{A Historical Development of Fluid Science}}\\[1.2cm]
 
-    {\Huge \underline{\textbf{History of Fluid Mechanics, Meteorology}}}\\[0.35cm]
-    {\Huge \underline{\textbf{and Physical Oceanography}}}\\[1.2cm]
+    {\Huge \underline{\textbf{History of Fluid Mechanics,}}}\\[0.35cm]
+    {\Huge \underline{\textbf{Meteorology \& Oceanography}}}\\[1.2cm]
 
-    {\Large \textit{Important Scientists and Their Contributions}}\\
+    {\Large \textit{\ztotpages\text{ }Important Scientists and Their Contributions}}\\
     {\large \textit{"From Ancient Hydrostatics to Modern Fluid Dynamics"}
     }\\[2.5cm]
 
@@ -59,7 +61,6 @@
 
     {\large
     \textbf{Fredrik Bergelv}\\[0.3cm]
-    Course / University\\[0.3cm]
     \today
     }
 
@@ -472,6 +473,7 @@ Halley then made one of the earliest serious attempts to describe global atmosph
 
 \begin{figure}[H]
     \centering
+    \includegraphics[width=0.30\textwidth]{Figures/Edmond.png}
     \includegraphics[width=0.90\textwidth]{Figures/Halley.png}
     \caption{Edmond Halleys map showing large scale circulation}
 \end{figure}
@@ -718,17 +720,19 @@ This term is essential for understanding large-scale atmospheric and oceanic cir
 
 \textbf{Contribution to fluid mechanics:}
 
-Stokes studied the motion of very small particles through viscous fluids. For a small spherical particle moving slowly through a viscous fluid, the drag force is
+Stokes was a British mathematician and physicist who worked at the University of Cambridge, where he became Lucasian Professor of Mathematics. He made major contributions to mathematical physics, fluid mechanics, optics, and wave theory. In fluid mechanics, Stokes studied the motion of very small particles through viscous fluids and developed what is now known as Stokes' law.
+
+For a small spherical particle moving slowly through a viscous fluid, the drag force is
 \[
 F_D=6\pi\mu r v \implies F_D\propto v.
 \]
-This is valid in the creeping-flow regime, where inertial effects are negligible. Stokes' law is used to determine settling velocities of particles, droplets, aerosols, and sediment grains.
+This is valid in the creeping-flow regime, where inertial effects are negligible. Stokes' law is used to determine the settling velocities of particles, droplets, aerosols, and sediment grains.
 
 Balancing gravitational settling against viscous drag gives the terminal settling speed of a small sphere:
 \[
 v_t=\frac{2r^2(\rho_p-\rho_f)g}{9\mu}.
 \]
-This result is highly important in sediment transport, atmospheric aerosols, ocean particles, and laboratory fluid mechanics.
+This result is important in sediment transport, atmospheric aerosols, ocean particles, and laboratory fluid mechanics. Stokes also made fundamental contributions to the mathematical description of viscous flow, including the equations governing slow viscous motion that form an important part of modern fluid mechanics.
 
 \begin{figure}[H]
     \centering
@@ -805,23 +809,20 @@ This relation is central to meteorology because atmospheric water vapour, conden
 \newpage
 \section*{\underline{\textbf{William Thomson, Lord Kelvin (1824--1907)}}}
 
-{}William Thomson, Lord Kelvin was a Scottish-Irish physicist who made fundamental contributions to thermodynamics, wave theory, rotating fluids, and the absolute temperature scale.
+{}William Thomson, Lord Kelvin, was a Scottish-Irish physicist who made fundamental contributions to thermodynamics, wave theory, rotating flows, and the temperature scale.
 
 \textbf{Contribution to fluid mechanics and oceanography:}
 
-Kelvin made major contributions to the mathematical physics of fluids and rotating systems. He developed the circulation theorem now known as Kelvin's circulation theorem. For an inviscid, barotropic fluid subject to conservative body forces,
+William Thomson, later known as Lord Kelvin, was a professor at the University of Glasgow, where he spent most of his scientific career and carried out major work in mathematical physics, thermodynamics, fluid mechanics, and geophysics. He developed the circulation theorem now known as Kelvin's circulation theorem. For an inviscid, barotropic fluid subject to conservative body forces,
 \[
-\frac{D\Gamma}{Dt}=0,
-\]
-where
-\[
+\frac{D\Gamma}{Dt}=0, \text{ where }
 \Gamma=\oint_C \mathbf{u}\cdot d\mathbf{l}
 \]
 is the circulation around a material closed curve. This result became a foundation for the study of vorticity and rotating flows.
 
-Kelvin also studied waves and developed theory relevant to water waves and tidal motion. His work on rotating fluids contributed to the mathematical understanding of large-scale geophysical flows.
+Kelvin also studied waves and developed theory relevant to water waves and tidal motion. His work on rotating fluids contributed to the mathematical understanding of large-scale geophysical flows, while his research into the Earth's physical properties connected mechanics with geophysics.
 
-Kelvin's work also helped establish the absolute temperature scale and the thermodynamic framework needed to understand the atmosphere and ocean as energy-converting systems.
+Beyond fluid mechanics, Kelvin was one of the major figures in nineteenth-century thermodynamics. He established the absolute temperature scale, formulated the second law of thermodynamics, and investigated the relationships between heat, work, and energy. He also made important contributions to electricity and magnetism, including electrical measurement, submarine telegraphy, and the description of physical fields. His broad work helped establish mathematical foundations that later became important for understanding the atmosphere, ocean, and Earth as interacting physical systems.
 
 \begin{figure}[H]
     \centering
@@ -1532,7 +1533,7 @@ Munk extended Sverdrup's theory of wind-driven ocean circulation by solving the 
 \[
 A_H\nabla^2\mathbf{u},
 \]
-where $A_H$ is a horizontal eddy-viscosity coefficient. This produced a narrow western boundary current that carries the return flow, but unlike the Stommel model, the current does not have its maximum velocity exactly at the coast. Instead, the velocity reaches a maximum slightly offshore. This became known as the Munk boundary-layer solution and provided a more realistic model of western boundary currents such as the Gulf Stream and Kuroshio. Munk also made major contributions to wave forecasting, tidal analysis, internal-wave theory, and ocean acoustic tomography. His wartime wave-forecasting work was particularly important because it allowed sea conditions to be predicted from wind speed, duration, and fetch, helping determine when amphibious operations could be carried out safely.
+where $A_H$ is a horizontal eddy-viscosity coefficient. This produced a narrow western boundary current that carries the return flow, but unlike the Stommel model, the current does not have its maximum velocity exactly at the coast. Instead, the velocity reaches a maximum slightly offshore. This became known as the Munk boundary-layer solution and provided a more realistic model of western boundary currents such as the Gulf Stream and Kuroshio. Munk also made major contributions to wave forecasting, tidal analysis, internal-wave theory, and ocean acoustic tomography. His wartime wave-forecasting work was particularly important because it allowed sea conditions to be predicted from wind speed, duration, and fetch, helping determine when amphibious operations, such as D-day, could be carried out safely.
 
 \begin{figure}[H]
 \centering
