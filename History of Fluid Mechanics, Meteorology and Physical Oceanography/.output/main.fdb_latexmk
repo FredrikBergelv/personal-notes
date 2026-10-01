@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1789650927.74518 "/home/fredrik/Desktop/personal-notes/History of Fluid Mechanics, Meteorology and Physical Oceanography/main.tex" ".output/main.pdf" "main" 1789650935.0601 0
-  ".output/main.aux" 1789650934.97312 8286 4628ccf7a9df96ab6a39d681bededd6e "pdflatex"
-  ".output/main.out" 1789650928.67397 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["pdflatex"] 1790523509.96018 "/home/fredrik/Desktop/personal-notes/History of Fluid Mechanics, Meteorology and Physical Oceanography/main.tex" ".output/main.pdf" "main" 1790523516.69057 0
+  ".output/main.aux" 1790523516.59645 8286 4628ccf7a9df96ab6a39d681bededd6e "pdflatex"
+  ".output/main.out" 1790523510.46036 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "/etc/texmf/web2c/texmf.cnf" 1732548902.53758 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/fredrik/Desktop/personal-notes/History of Fluid Mechanics, Meteorology and Physical Oceanography/main.tex" 1789650927.11793 88573 42e0979f2dba00bdda4c9c68553fbc86 ""
+  "/home/fredrik/Desktop/personal-notes/History of Fluid Mechanics, Meteorology and Physical Oceanography/main.tex" 1790523509.57035 91280 33f563b1b3fe1e52c39c65515cbdffbd ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1136768653 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -162,7 +162,7 @@
   "Figures/Kelvin.png" 1789389118.62527 568537 23317d08e5754c014982776f0d7c3404 ""
   "Figures/Kolmogorov.png" 1789390237.62882 538426 bc7d021edfbbf06d9e7fbd791840e69d ""
   "Figures/Lagrange.png" 1789378666.28012 62093 3a01a0fdc8e6fe2fb769ef0a705a5f5f ""
-  "Figures/Laplace.png" 1789378734.31509 92036 87bd93cbbf34ee24dadd26da70d52f44 ""
+  "Figures/Laplace.png" 1790242827.22607 235884 a9e1601507763bb77f60243b81cd476c ""
   "Figures/Leonardo.png" 1789464233.54676 1836442 ddc3cb57d6058a0154655bc7de37c999 ""
   "Figures/Lewis.png" 1789462757.41771 406153 13fded8929182aec50220f6a9276a010 ""
   "Figures/Lorenz.png" 1789390324.36191 532831 79a19f4989d0250cf29614bdfa3f45fb ""
@@ -193,7 +193,7 @@
   "Figures/Vinci.png" 1789377593.16024 45179 6ff4bce48e69b245a57fbef41742b656 ""
   "Figures/Walker.png" 1789398702.0952 174232 22ff2902581939e8571e71ea79725177 ""
   "Figures/dAlembert.png" 1789378628.10098 77613 49aba01af7eddb15c82e74829a4cb591 ""
-  "main.tex" 1789650927.11793 88573 42e0979f2dba00bdda4c9c68553fbc86 ""
+  "main.tex" 1790523509.57035 91280 33f563b1b3fe1e52c39c65515cbdffbd ""
   (generated)
   ".output/main.aux"
   ".output/main.log"
