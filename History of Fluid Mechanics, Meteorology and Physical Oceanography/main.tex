@@ -15,7 +15,7 @@
 \usepackage{parskip}
 \usepackage{hyperref}
 \usepackage{zref-totpages}
-
+\usepackage{subcaption}
 
 \geometry{
     margin=2.5cm
@@ -1392,20 +1392,42 @@ He also helped establish modern numerical weather prediction by applying mathema
 % JACOB BJERKNES
 % ============================================================
 \newpage
+\section*{\underline{\textbf{The Bergen School of Meteorology}}}
+
+The Bergen School of Meteorology, founded by Vilhelm Bjerknes, was one of the first organized centres for scientific weather forecasting. Its work transformed weather maps into tools for understanding and predicting the development of cyclones.
+
 \section*{\underline{\textbf{Jacob Bjerknes (1897--1975)}}}
 
-{}Jacob Aall Bonnevie Bjerknes was a Norwegian-American meteorologist who developed the polar-front theory of extratropical cyclones and the modern interpretation of weather fronts.
+Jacob "Jack" Bjerknes developed the Norwegian cyclone model, explaining midlatitude cyclones as organized systems developing along a polar front between contrasting air masses. He showed how warm and cold fronts form and evolve around a cyclone, establishing a foundation of modern synoptic meteorology and weather forecasting. Jack later moved to the United States, where he became a leading figure in meteorology, studying the El Niño and helped planning of the Hiroshima and Nagasaki atomic bombings during WWII.
 
-\textbf{Contribution to meteorology:}
+\section*{\underline{\textbf{Halvor Solberg (1895--1974)}}}
 
-Jacob Bjerknes developed the polar-front theory of midlatitude cyclones. He showed that extratropical cyclones are associated with strong temperature contrasts between different air masses. Along the boundary between these air masses, warm and cold fronts develop.
+Halvor Solberg was a norwegian meteorologist who worked with Jacob Bjerknes on polar-front theory and helped explain how extratropical cyclones originate along the polar front, where warm and cold air masses meet. His work provided an important physical basis for the Norwegian cyclone model.
 
-A developing cyclone can contain a warm sector between a warm front and a cold front. As the system evolves, the cold front can catch up with the warm front, producing an occluded front. This provided a physical interpretation of weather maps: fronts were not merely lines drawn between different weather conditions, but dynamically evolving boundaries between air masses. The Bergen school used these ideas to explain the life cycle of extratropical cyclones.
+\section*{\underline{\textbf{Tor Bergeron (1891--1977)}}}
+
+Tor Bergeron was a Swedish meteorologist who studied the later stages of cyclone development and explained how cyclones become occluded. When the faster cold front catches the warm front, the warm air is lifted from the surface and an occluded front forms, eventually weakening and dissipating the cyclone.
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.30\textwidth]{Figures/Bjerknes2.png}
-    \caption{Jacob Aall Bonnevie Bjerknes}
+    \begin{subfigure}[b]{0.30\textwidth}
+        \centering
+        \includegraphics[height=0.2\textheight]{Figures/Bjerknes2.png}
+        \caption{Jacob Bjerknes}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.30\textwidth}
+        \centering
+        \includegraphics[height=0.2\textheight]{Figures/Solberg.png}
+        \caption{Halvor Solberg}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.30\textwidth}
+        \centering
+        \includegraphics[height=0.2\textheight]{Figures/Bergeron.png}
+        \caption{Tor Bergeron}
+    \end{subfigure}
+    \caption{The Bergen School of Meteorology}
 \end{figure}
 
 
@@ -1454,7 +1476,7 @@ f\mathbf{k}\times\mathbf{u}_g
 =
 -\frac{1}{\rho}\nabla_h p.
 \]
-Charney also led the first successful numerical weather prediction experiment in 1950. Using the newly developed electronic computer ENIAC, his group numerically integrated simplified atmospheric equations to forecast the evolution of a large-scale pressure pattern.
+Charney also led the first successful numerical weather prediction experiment in 1950 together with Von Neumann. Using the newly developed electronic computer ENIAC, his group numerically integrated simplified atmospheric equations to forecast the evolution of a large-scale pressure pattern, altough the 24 hour forecast took 24 hours to compute.
 
 This demonstrated that Richardson's vision of numerical weather prediction was computationally possible.
 
