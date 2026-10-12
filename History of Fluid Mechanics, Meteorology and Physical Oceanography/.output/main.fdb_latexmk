@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1791046639.96544 "/home/fredrik/Desktop/personal-notes/History of Fluid Mechanics, Meteorology and Physical Oceanography/main.tex" ".output/main.pdf" "main" 1791046648.79185 0
-  ".output/main.aux" 1791046648.7001 8742 3fd5e2c9c18489a9f61a053d6e105f66 "pdflatex"
-  ".output/main.out" 1791046640.84295 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["pdflatex"] 1791834890.05672 "/home/fredrik/Desktop/personal-notes/History of Fluid Mechanics, Meteorology and Physical Oceanography/main.tex" ".output/main.pdf" "main" 1791834897.80482 0
+  ".output/main.aux" 1791834897.71268 8880 3a6393e02482c6055b36431a9dfaaedc "pdflatex"
+  ".output/main.out" 1791834890.44146 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "/etc/texmf/web2c/texmf.cnf" 1732548902.53758 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/fredrik/Desktop/personal-notes/History of Fluid Mechanics, Meteorology and Physical Oceanography/main.tex" 1791046639.44893 92493 2c10d7b79c3e34b7b7509dc3b71bfbc2 ""
+  "/home/fredrik/Desktop/personal-notes/History of Fluid Mechanics, Meteorology and Physical Oceanography/main.tex" 1791834889.80944 94070 1bf6a495f9f7a6277068245ca5054f04 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1136768653 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -179,6 +179,7 @@
   "Figures/Nansen.png" 1789389756.42503 659869 5428c2a53e142558735e635a07a8cab5 ""
   "Figures/Navier.png" 1789388778.62402 363509 d674d9a412c80d2d7519b1151b958ce2 ""
   "Figures/Newton.png" 1789378304.35811 173041 5a97758d1c633ca4708110e31a0684a7 ""
+  "Figures/Oishi.png" 1791834151.33224 244676 cd93c9bd7454d21cfc40a4f1b6c654db ""
   "Figures/Otto.png" 1789464403.58509 816664 a74254a2021fd154478306b92fa67522 ""
   "Figures/Pascal.png" 1789378128.71859 90630 82faa62eb2d4a68a863559901b9a8e75 ""
   "Figures/Poincare.png" 1789457683.02244 365925 b50639d57e9d9d428cf1ac7476ecdec1 ""
@@ -200,7 +201,7 @@
   "Figures/Vinci.png" 1789377593.16024 45179 6ff4bce48e69b245a57fbef41742b656 ""
   "Figures/Walker.png" 1789398702.0952 174232 22ff2902581939e8571e71ea79725177 ""
   "Figures/dAlembert.png" 1789378628.10098 77613 49aba01af7eddb15c82e74829a4cb591 ""
-  "main.tex" 1791046639.44893 92493 2c10d7b79c3e34b7b7509dc3b71bfbc2 ""
+  "main.tex" 1791834889.80944 94070 1bf6a495f9f7a6277068245ca5054f04 ""
   (generated)
   ".output/main.aux"
   ".output/main.log"
