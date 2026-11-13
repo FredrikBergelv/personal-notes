@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1792485068.70762 "/home/fredrik/Desktop/personal-notes/History of Fluid Mechanics, Meteorology and Physical Oceanography/main.tex" ".output/main.pdf" "main" 1792485078.75883 0
-  ".output/main.aux" 1792485078.64564 8880 3a6393e02482c6055b36431a9dfaaedc "pdflatex"
-  ".output/main.out" 1792485069.64843 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["pdflatex"] 1794563916.94556 "/home/fredrik/Desktop/personal-notes/History of Fluid Mechanics, Meteorology and Physical Oceanography/main.tex" ".output/main.pdf" "main" 1794563930.28922 0
+  ".output/main.aux" 1794563930.19842 9034 01981d823e53fd8cee5e0813d61160da "pdflatex"
+  ".output/main.out" 1794563918.01408 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "/etc/texmf/web2c/texmf.cnf" 1732548902.53758 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/fredrik/Desktop/personal-notes/History of Fluid Mechanics, Meteorology and Physical Oceanography/main.tex" 1792485068.0944 94064 9338b084edfbe8dd45e27d88a36ba4e9 ""
+  "/home/fredrik/Desktop/personal-notes/History of Fluid Mechanics, Meteorology and Physical Oceanography/main.tex" 1794563916.36103 96159 a8f4638f10e10463072a43d22839a489 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1136768653 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -157,6 +157,7 @@
   "Figures/Ekman.png" 1789377436.87415 15696 4938e265d48106b88185e95c4a913e7e ""
   "Figures/Euler.png" 1789394003.21284 2003694 59fa2e16bbd4317399de79b8916f29ce ""
   "Figures/Ferrel.png" 1789389291.08502 274744 6075d8e197279f59dcaead884226fa0f ""
+  "Figures/Fourier.png" 1794563278.82964 756978 c2700c3d2423d813acf41320912e3077 ""
   "Figures/Galileo.png" 1789377750.73232 47892 3c12a1147911e7ca5019faa6ee7254de ""
   "Figures/Guericke.png" 1789380235.33632 2421734 998fb087a2cef2e53bc44b4652ec0b9b ""
   "Figures/Hadley.png" 1789464606.96434 244245 297297665e923e6ab688422f05825c53 ""
@@ -201,7 +202,7 @@
   "Figures/Vinci.png" 1789377593.16024 45179 6ff4bce48e69b245a57fbef41742b656 ""
   "Figures/Walker.png" 1789398702.0952 174232 22ff2902581939e8571e71ea79725177 ""
   "Figures/dAlembert.png" 1789378628.10098 77613 49aba01af7eddb15c82e74829a4cb591 ""
-  "main.tex" 1792485068.0944 94064 9338b084edfbe8dd45e27d88a36ba4e9 ""
+  "main.tex" 1794563916.36103 96159 a8f4638f10e10463072a43d22839a489 ""
   (generated)
   ".output/main.aux"
   ".output/main.log"
